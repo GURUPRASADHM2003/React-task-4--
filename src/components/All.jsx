@@ -73,6 +73,41 @@ const All = () => {
       user: "Tarun Singh",
       date: "25 Mar,2024",
       time: "5",
+    },{
+      id: 8,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714394273/React-Router/iiqeg80qpgai9s7gqody.jpg",
+      sub: "How to Render an Array of Objects in React? [in 3 easy steps]",
+      user: "Tarun Singh",
+      date: "21 Mar,2024",
+      time: "7",
+    },
+    {
+      id: 9,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714394274/React-Router/hhiiy5ri8moo9ne44rt6.webp",
+      sub: "Use ReactJS to Fetch and Display Data from API – 5 Simple Steps",
+      user: "Tarun Singh",
+      date: "21 Mar,2024",
+      time: "5",
+    },
+    {
+      id: 10,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714394274/React-Router/dzcl8oqxa6oybylf9pw3.jpg",
+      sub: "Top 10 Unique Project Ideas for College Students",
+      user: "Lukesh S",
+      date: "21 Mar,2024",
+      time: "5",
+    },
+    {
+      id: 11,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714394273/React-Router/rrwc1uziqszl7utop9cw.webp",
+      sub: "Top 30 Mini Project Ideas For College Students [UPDATED]",
+      user: "Srinithi Shankar",
+      date: "25 Mar,2024",
+      time: "6",
     },
   ];
 
